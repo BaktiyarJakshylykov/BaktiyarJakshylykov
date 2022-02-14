@@ -12,3 +12,5 @@ def frands(request):
     return render(request, 'blog/frands.html')
 
 # hello
+
+# privet
